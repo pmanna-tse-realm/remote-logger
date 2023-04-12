@@ -1,0 +1,18 @@
+{
+  "name": "logger-test",
+  "version": "0.1.0",
+  "description": "Test application for RemoteLogger utility.",
+  "main": "index.js",
+  "scripts": {
+    "cleanStart": "node ./index.js --clean --logLevel=debug --appId='<Observed App ID>' --user='<email>' --password='<password>'",
+    "start": "node ./index.js --appId='<Observed App ID>' --user='<email>' --password='<password>'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paolo Manna",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "ora": "^5.4.1",
+    "realm": "^11.7.0"
+  }
+}
