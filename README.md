@@ -80,7 +80,7 @@ In order for the log collection to have as little footprint on the observed app 
 
 ![API Key](./images/6-APIKey.png)
 
-- Save and deploy everything one last time: the app should now be ready to receive data from the clients. Tou double-check that everything went smoothly, select the **Realm SDK** screen, and the **Realm Object Models** tab, and you should find the native structure that will be used in the app (here the JS model is shown)
+- Save and deploy everything one last time: the app should now be ready to receive data from the clients. To double-check that everything went smoothly, select the **Realm SDK** screen, and the **Realm Object Models** tab, and you should find the native structure that will be used in the app (here the JS model is shown)
 
 ![Object Model](./images/7-ObjectModel.png)
 

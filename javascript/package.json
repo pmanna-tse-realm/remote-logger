@@ -13,6 +13,6 @@
   "dependencies": {
     "minimist": "^1.2.8",
     "ora": "^5.4.1",
-    "realm": "^11.7.0"
+    "realm": "^11.8.0"
   }
 }
